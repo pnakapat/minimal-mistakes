@@ -1,3 +1,3 @@
-ruby "3.3.22"
+ruby "3.1.0"
 source "https://rubygems.org"
 gemspec
